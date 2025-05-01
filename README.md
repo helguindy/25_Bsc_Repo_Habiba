@@ -55,17 +55,27 @@ During the validation process, several performance metrics are generated. Below 
 
 *Precision vs Recall curve showing the model's trade-off between precision and recall.*
 main/model/detect/traffic_signs/PR_curve.png
+
+---
+
+
 #### **Loss Curve**
 
 ![Loss Curve](results/results.png)
 *Training and validation loss curve over epochs.*
+
+---
+
 
 #### **Confusion Matrix**
 
 ![Confusion Matrix](results/confusion_matrix_normalized.png)
 *Confusion matrix showing true positives, false positives, true negatives, and false negatives.*
 
-### 3. **Validation Batch Results**
+---
+
+
+#### **Validation Batch Results**
 The model's performance on a validation batch is shown below:
 
 *Sample validation batch results showing detected traffic signs, confidence scores*
