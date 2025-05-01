@@ -1,6 +1,9 @@
 # **🚗 EgyDrive Scene-Level Automatic Annotation Tool**
 
 This project uses a custom-trained **YOLOv8** model to detect Egyptian road signs and objects, and **EasyOCR** to extract numerical values from speed limit signs.
+
+---
+
 **Dataset:** https://drive.google.com/drive/folders/1rVCt_u2ECykJjED6zQIrcJg19QTOftVe?usp=sharing
 
 ---
