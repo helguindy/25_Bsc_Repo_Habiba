@@ -46,18 +46,7 @@ PyYAML>=6.0.1
 ---
 
 ## 📊 **Results**
-
-### 1. **Detection Results**
-The model detects various traffic signs and speed limits. Below are some sample outputs:
-
-- **Annotated Images:**
-  - Blue bounding boxes around detected speed limit signs
-  - Text overlays showing the detected speed value and confidence
-  
-  ![Annotated Image Example](path_to_annotated_image.png)  
-  *Example of an annotated image with bounding boxes and speed values.*
-
-### 2. **Graphs and Metrics**
+ **Graphs and Metrics**
 During the validation process, several performance metrics are generated. Below are some graphs showing the model's performance.
 
 #### **Precision-Recall Curve**
