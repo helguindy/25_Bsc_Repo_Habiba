@@ -1,0 +1,25 @@
+names:
+  0: bump
+  1: cone
+  2: no entry
+  3: Speed Limit # -100-
+  4: Speed Limit # -110-
+  5: Speed Limit # -120-
+  6: Speed Limit # -130-
+  7: Speed Limit # -140-
+  8: Speed Limit # -20-
+  9: Speed Limit # -50-
+  10: Speed Limit # -60-
+  11: Speed Limit # -70-
+  12: Speed Limit # -80-
+  13: Speed Limit # -90-
+  14: Speed Limit # -40-
+  15: stop
+  16: lightr
+  17: lightg
+
+
+path: C:\Users\Habiba Elguindy\OneDrive\Desktop\sha2aya
+test: C:\Users\Habiba Elguindy\OneDrive\Desktop\sha2aya\test\images
+train: C:\Users\Habiba Elguindy\OneDrive\Desktop\sha2aya\train\images
+val: C:\Users\Habiba Elguindy\OneDrive\Desktop\sha2aya\valid\images
