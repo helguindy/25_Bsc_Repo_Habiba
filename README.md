@@ -73,7 +73,18 @@ The model's performance on a validation batch is shown below:
 ![batch1](main/model/detect/traffic_signs/val_batch1_pred.jpg)
 ![batch2](main/model/detect/traffic_signs/val_batch2_pred.jpg)
 
+---
+## 🚀 **Usage**
 
+   ```bash
+   git clone https://github.com/helguindy/25_Bsc_Repo_Habiba.git
+   python -m venv venv
+   .\venv\Scripts\activate  # On Windows
+   cd main
+   pip install -r requirements.txt
+   python run.py
+   ```
+You can add your own test images in the *my test images* folder and the output images will be saved in *my test images result*
 
 
 
