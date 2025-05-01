@@ -58,7 +58,7 @@ During the validation process, several performance metrics are generated. Below 
 ![Precision-Recall Curve](results/PR_curve.png)
 
 *Precision vs Recall curve showing the model's trade-off between precision and recall.*
-main/model/detect/traffic_signs/PR_curve.png
+
 
 ---
 
