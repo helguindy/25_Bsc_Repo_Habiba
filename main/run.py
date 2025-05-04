@@ -82,7 +82,7 @@ class SpeedDetector:
 def main():
     root_dir = get_project_root()
     test_folder = root_dir / "my test images"
-    model_path = root_dir / "runs" / "detect" / "traffic_signs" / "weights" / "best.pt"
+    model_path = root_dir / "runs" / "detect" / "traffic_objects" / "weights" / "best.pt"
     output_folder = root_dir / "my test images results"
     output_csv = output_folder / "detections.csv"
     
