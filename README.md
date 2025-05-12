@@ -14,8 +14,9 @@ This project uses a custom-trained **YOLOv8** model to detect Egyptian road sign
 - ⛔ Detects **No Entry Signs**
 - ⚠️ Detects **Speed Bumps** (the colored ones 😅)
 - 🪧 Detects **Cones**
+- 🚸 Detects **CrossWalks**
 - 🚧 Detects **Speed Limit Signs**
-- 🔢 Recognizes **actual speed values** from speed limit signs using **EasyOCR** for verification
+- 🔢 Recognizes **actual speed values** from speed limit signs using **EasyOCR** 
 - 🖼️ Outputs **annotated images** with bounding boxes
 - 📄 Generates **detailed CSV reports**
 - 📁 Supports **batch processing**
